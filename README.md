@@ -19,5 +19,3 @@ Developing a solution for Gesture enabled commands for operating Laptops/PCs for
 - scikit-learn 0.23.2 or Later (Only if you want to display the confusion matrix)
 - matplotlib 3.3.2 or Later (Only if you want to display the confusion matrix)
 
-
-Made by - Sreyansh Baranwal
